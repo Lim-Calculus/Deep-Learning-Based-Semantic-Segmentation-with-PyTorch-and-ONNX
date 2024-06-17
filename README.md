@@ -1,4 +1,4 @@
-# Deep-Learning-Based-Semantic-Segmentation-with-PyTorch-and-ONNX
+# Deep Learning-Based Semantic Segmentation with PyTorch and ONNX
 ![image](https://github.com/Lim-Calculus/Deep-Learning-Based-Semantic-Segmentation-with-PyTorch-and-ONNX/assets/64350431/7e10d50e-0a73-46be-9e99-3d17915d00f8)
 
 ## Introduction
