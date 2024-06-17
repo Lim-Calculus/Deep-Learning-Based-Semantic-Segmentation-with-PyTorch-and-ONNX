@@ -7,6 +7,10 @@ I will be using the segmentation_models.pytorch library for the segmentation mod
 
 ## Final Predictions
 ![image](https://github.com/Lim-Calculus/Deep-Learning-Based-Semantic-Segmentation-with-PyTorch-and-ONNX/assets/64350431/d8e32fcf-4d55-4ff5-8605-d5716f6c454d)
+![image](https://github.com/Lim-Calculus/Deep-Learning-Based-Semantic-Segmentation-with-PyTorch-and-ONNX/assets/64350431/70fb7bc4-9533-4393-bb7b-78d737b3df1e)
+![image](https://github.com/Lim-Calculus/Deep-Learning-Based-Semantic-Segmentation-with-PyTorch-and-ONNX/assets/64350431/841dbb23-99e0-44af-ac6f-22b3d6693fb2)
+
+
 
 
 
