@@ -9,6 +9,12 @@ This project entails the development of a deep learning-based semantic segmentat
 ![image](https://github.com/Lim-Calculus/Deep-Learning-Based-Semantic-Segmentation-with-PyTorch-and-ONNX/assets/64350431/70fb7bc4-9533-4393-bb7b-78d737b3df1e)
 ![image](https://github.com/Lim-Calculus/Deep-Learning-Based-Semantic-Segmentation-with-PyTorch-and-ONNX/assets/64350431/841dbb23-99e0-44af-ac6f-22b3d6693fb2)
 
+## References:
+1. Deep Learning with PyTorch : Image Segmentation. (n.d.). Retrieved June 17, 2024, from https://www.coursera.org/projects/deep-learning-with-pytorch-image-segmentation
+2. Export a PyTorch model to ONNX — PyTorch Tutorials 2.3.0+cu121 documentation. (n.d.). Retrieved June 17, 2024, from https://pytorch.org/tutorials/beginner/onnx/export_simple_model_to_onnx_tutorial.html
+3. qubvel/segmentation_models.pytorch: Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones. (n.d.). Retrieved June 17, 2024, from https://github.com/qubvel/segmentation_models.pytorch
+
+
 
 
 
